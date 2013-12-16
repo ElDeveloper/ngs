@@ -1,4 +1,5 @@
 Contextualized Timeline of Sequencing Cost
 ==========================================
 
-As seen in one of [@TheaWhitman's tweets](https://twitter.com/TheaWhitman/status/378996305869025280)
+See the notebook [here](http://nbviewer.ipython.org/github/ElDeveloper/ngs/blob/master/sequencing.ipynb).
+
